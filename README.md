@@ -1,7 +1,7 @@
 
-# <center> Module 2 Project  - Northwind Database Hypothesis Testing
+# Northwind Database Hypothesis Testing
 
-## <center>Matthew Sparr <br><br> <center><h8>Self-Paced Data Science Program
+## <center>Matt Sparr
 
 # <center> Introduction
 
